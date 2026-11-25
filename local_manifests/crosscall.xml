@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="crosscall" fetch="https://github.com/CrosscallEngineering" />
+  <project path="kernel/crosscall/stellarx5" name="StellarX5_kernel_msm-5.4" remote="crosscall" revision="release" clone-depth="1" />
+</manifest>
